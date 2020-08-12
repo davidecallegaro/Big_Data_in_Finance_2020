@@ -1,0 +1,439 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,478883729111,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323250726424,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494771923,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,891176372,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61657462,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39862900,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75735,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21091,,,0
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1988668908,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743638503,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2488857,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129149,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34449,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113649,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3799563165,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288812308,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232648,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2203707,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341506988,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54534297,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2167696760,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633884224,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10569385368,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2973868322,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658040649,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459878675,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46549499,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8442807,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386132467,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,607945537,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1213795811,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8242923366,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1848653,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37979661,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1631522,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13256522,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9354387952,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6184548447,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7583927,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2453717,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249280789,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694305443,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798151934,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121006297,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2204637,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15847604,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782198179,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196404993,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3042273743,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4113988054,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,845292,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16298162,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41740345,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2978741,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8576408,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380769,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581368775,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56810177,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137681385,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165574750,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506730442,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,956900515,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2530532,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56704752,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206697335,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56036089,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46587285,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204000010,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,427106274,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216383348,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3900626739,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2901550265,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2202805,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2190969,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847201,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5495814,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751514,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54981758,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,994026389,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4226735125,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254614879,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52395842,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1139511046,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,875393747,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68402092562,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17278832680,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15154,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4000,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,720201529,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037460623,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18855315,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19396561,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641829150,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113766585,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28980389,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356344077,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319678,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51421739,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131400683,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56566289,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144916360,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2611431,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51426601,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398154996,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441142810,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266552584,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,467418320,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,333349400,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418363801,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620170546,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,752192483,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265897,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2329745,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459997953,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222985639,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310321344,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259267842,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3299624,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78424748,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,962607597,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10075303,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101228382,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,822418267,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5809020,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82201410,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71822147,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1904419,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31579,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79879,,,0
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,712716,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57544620,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,714825599,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267097723,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3828388933,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5434291329,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62608,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5269546,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21181311,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357249396,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150661495,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49649801,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13138583,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89768566,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40924062,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145456622,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1543498,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1301165,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12272542623,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8569824588,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2494172831,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,602579176,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,996505,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,973974588,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413876,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121557933,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451996620,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29998,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,596620,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3373595,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1706,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886908,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21275294,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290790148,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394406917,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351480206,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6490255,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25018996,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15956913,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67423085,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17849,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36294,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23715442,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186366855,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17385603036,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11478401247,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191570325,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443111502,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10080132,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19188298,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15563891077,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4515383359,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3375419775,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3855008082,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22085015554,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2019034380,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544118190,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547112659,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1674184983,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3608901786,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4707485184,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5189870936,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505657359,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428584986,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4020940,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56613676,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12744471522,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4815593351,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1597366193,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193684391,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1095436300,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1053858538,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95741783,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1931188973,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2903053,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10428780,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16111284425,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4653980478,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9137051406,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1340163121,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2043380,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29112413,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2621622,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29285132,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30972524,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226213248,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47787,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41609334,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190252569,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123820775,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7757948,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222792303,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81158860,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199394665,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282309326,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118164462,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65361132,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36341458,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4285822,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256467,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272452764,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301585330,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36452027,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191972062,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10407570803,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6268536760,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5890037,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226264822,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35742856,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142791914,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41377404,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239122310,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11432225,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89221431,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26686347,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,779477461,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4875629290,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3735391912,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4194059011,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1640723537,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1249814,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15277499,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,436498,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9588453,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134344,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22066246,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54547,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59423,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1102761949,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,935016045,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856680035,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2135313617,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3294921471,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2066706339,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22712352,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108867347,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68088,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221147,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649433269,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7108863141,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3748780647,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8906975224,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25577218,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32834531,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380504,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9346388,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33959,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180870,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14527519,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254123,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2254891,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,558237082,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383783745,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4045038,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64757978,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800877,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85582733,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10613135088,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3678866090,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83072,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390698,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346611,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,624349075,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426709294,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85963,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413694,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,471502,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498474,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3468624,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26279555,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1991,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82757,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67312849,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1186205288,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77419973,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244134165,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75479869,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56866996,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23166024,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136128878,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1757650674,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,750967740,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556912778,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1635533799,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18949,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10889,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,880506438,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1574710084,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140887513,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,742700916,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123049865,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12378964,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6620291,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9525660997,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1306737680,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290858504,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392259040,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6226189464,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2871228560,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4212139,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128586730,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21748,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322780,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2650446,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28875,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39832,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675642,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3246712,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3597,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,801614,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257208,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324910,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1702676,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27000124784,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5974037245,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484239392,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484002400,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12163753,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81526672,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4846488,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51892067,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20501392,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126574834,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14893891855,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10738688603,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60157679,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139762164,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7446093333,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5512870238,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242557869,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334071426,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21785670,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614662580,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6634515750,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3982930227,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12087068,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157165414,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1652494132,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4248977453,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46871745,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17566407,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,467114275,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1079058086,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7960,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66817310,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32489263,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7681038,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17773216,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1173564770,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,759566767,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17722676082,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1277418183,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15750436,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159433518,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296265,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24610460,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7034310196,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4331648864,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361809069,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1089374833,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46591,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557507,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78840149,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85863310,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30308878832,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29539357727,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140236486,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269676261,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2282338083,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4575955544,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3692798,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37309163,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4645,,,0
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659976,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3689,,,0
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33125961,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,633772949,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2091748382,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456830281,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22690523,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21938245,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2001130528,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2658647556,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6878492928,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8797200000,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,859480339,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1692930625,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34917971764,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54288194268,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,683012570,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169288193,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47747430,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154377259,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92344233,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193459125,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5687669640,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241366078,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22616,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3023423,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4539436,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23023247,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756099149,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,745907677,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267945151,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129258353,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2477811637,,,4

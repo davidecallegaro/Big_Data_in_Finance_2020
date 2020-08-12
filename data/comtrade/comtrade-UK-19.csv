@@ -1,0 +1,462 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,692580062625,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468159554427,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4559318,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95769381,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8527172,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23925527,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16001,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2363385,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2503654379,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460005961,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,272413,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90645,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591863,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19742854,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17814049,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291778848,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2460295,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18438687,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134493829,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2478547338,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,813520660,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500967591,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10795036595,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5527644952,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5005927287,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2378252529,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3890324,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45808316,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336617365,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,645057114,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3927763002,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,520565429,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2691806,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18473113,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7570228,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56594043,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32224659045,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16473205058,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4859497,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37290188,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386415,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1462250,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49951432,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25370840,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22265987,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33696798,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20855250,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40185509,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26947,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3020864562,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2463507891,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98523198,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9841639,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22955,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51123,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17153024,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851385,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4833720,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16574162,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1833339,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72804706,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,747367282,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477259132,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484954542,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41441329,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,653547,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6985686,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98573639,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176792975,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1224084617,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58596226,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60678346,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55979671,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15910247312,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6725218883,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1195072,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4671106,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2458666,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25132615,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108150,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3018218,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855649298,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347541299,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1093056,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36783539,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756176795,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889174283,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65538931141,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30146677220,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148936,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58380,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109728,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81150,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,531004921,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,689700370,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118490,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2262905,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27231786,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36854166,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6410155,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33064280,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19909,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210294,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341317280,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73337031,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204113909,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267517395,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9407133,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17046692,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,291497552,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,545822589,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7800582086,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2807678404,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1525432,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35573045,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8374185921,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3401292595,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1714220,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13507272,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149704158,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127270106,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178643100,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123099848,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18480781,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54987455,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39376200,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54019519,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74032122,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620016700,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80446,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2402871,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310539259,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322224924,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320136050,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31899038,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3263914,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77411261,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25229516,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16241432,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3134105489,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1664308969,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38860611881,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31344522624,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311346,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9733629,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4575,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286981,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6057233,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23688688,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,972369,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51831909,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27286229,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102238499,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4987078,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41907095,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5028125,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4283581,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85668068655,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46332394846,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353070676,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,480922976,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4451876,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554383089,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56880,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1205573196,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1304381675,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4192260,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3122440,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,491419,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12116463,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568742,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3582441,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126412514,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75800890,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800375,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31295439,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43397668,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59653232,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11443355,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13190423,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1349274,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223761,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159241823,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13160462,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4406967572,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11223091766,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3836501213,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1694780478,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569870191,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385979972,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1951056270,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,870812582,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27078011,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104942031,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1705072,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502919878,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17626373713,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27783130783,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1355994114,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1870152674,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26247286470,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12707115259,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306128165,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88987837,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48675608,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71635025,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13023858004,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8338757088,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452357570,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,459734964,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40055397,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357829341,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381001542,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441466241,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137412,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25281,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5034263219,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4803003112,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798270873,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688462587,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,797011754,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5098852,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27942548,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14034657,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41930196,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390371546,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129605,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1370552,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,965770969,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493516766,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461062,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10509228,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253542668,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201395478,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1066222928,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,668750441,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758750452,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,302536000,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3388846,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116940565,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50342696,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13670971,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27864509,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19844174,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2387902443,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1732022825,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12174254,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32139387,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1737390,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46547762,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105883914,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1753836102,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1167138,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30563213,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159560708,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100208362,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3386192745,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1804210574,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4671971897,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1868903619,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10577841,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23309133,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43641646,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30577427,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8194105,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53248417,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296379,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1078552,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,793804613,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,811914208,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32997999,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138227157,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114299268,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694814764,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52148533,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52303295,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63054,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357812,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22977309,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21398982,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53920181483,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30377096061,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,815311,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12606896,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86785,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15264940,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378640,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2737160,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288858,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10312673,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10737865,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19864943,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145233,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554039,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1051929392,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1071587006,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65023811,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5671902,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352016,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5297571,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1764375317,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1669516518,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422915695,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5024,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8019887,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37033,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65501,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102939,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19787307959,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4667491082,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10646,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124898,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086825,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102989,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136479,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680448,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3254610,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3183,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28066,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722145515,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,934749043,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30018618,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210580721,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99316004,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15247159,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91712902,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41148130,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595643564,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210086418,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698376479,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,888940127,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38695,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198585,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14245235410,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6765235370,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4063812541,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2007532173,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460840,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,617057,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708439,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,601968,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1989727900,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3259425431,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2568101448,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1619683744,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14125880429,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3375113363,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17432586,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17592159,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,935052,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22746827,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,500499,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10380743,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1481807,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1235169,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6471514,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25129576,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1639,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19623,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1614767,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17931667,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5778379,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6915075,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28050,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181071,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2434050041,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4186308433,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57395482,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223122703,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347428433,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213827419,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77990229,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34004790,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1279629,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43919144,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9847540582,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5877224151,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2210516900,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6882145177,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3287282435,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1367207146,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6018562309,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,776273658,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552984405,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356071261,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1040139,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16138865,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8459224925,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2348950159,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90085212,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49954569,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21212092183,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13667973206,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63097,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7808234,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9480784,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103900689,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738852,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15529261,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9986668,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4356464,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8263043778,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6366787868,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23662873840,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15614544981,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3784883,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15066577,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1692125,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5093681,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3839413227,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1563030355,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1681004,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27742986,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117552,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1743699,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129157285,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136522998,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1876976879,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9976844848,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234944504,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220401816,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12123075528,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6413928467,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1638282,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19019156,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77123,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5402543,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45956,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75056,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17169949,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49487020,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756713732,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,657921340,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147170845,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1535203462,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1006731044,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1631568711,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5580143938,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20480337,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143787941,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524881279,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67088932078,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73510211360,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3121301,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51364815,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62710176,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174297323,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2384593628,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52146482,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42681982,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29246255,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8046,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35178,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137140,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,915740,,,0
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485828,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58134638,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10580592,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84307005,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7461569014,,,0
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9252805705,,,0

@@ -1,0 +1,431 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,235534849877,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,252757844372,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408987,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4867645,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10542601,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2313945,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2912456,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6773601,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562233145,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9036597,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7265041,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6753107,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24639417,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17576307,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2909362,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,922403,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57810989,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2983047,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583502909,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331881591,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708773615,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1497855880,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27036279,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4348146,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3223456,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75105217,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1060997442,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,735029316,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673325349,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1083852,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,794271,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1357010,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1537265,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1621419009,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,715265446,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34493,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413904,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1475374,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353874,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11761657,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1606398,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15429340,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484962,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186694,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1412343,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,663841224,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1040320078,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,707251,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1354894,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14163,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9221181,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95045768,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4757115,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335510,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,581708920,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37463461,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64247312,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51291945,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32253878,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120983429,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,774358,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12933,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18568056,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394837,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140413396,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41117531,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1210608,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1001141,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1702618908,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1417243425,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70183,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117,,,0
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1040286,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388914,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8776,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579654,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,199715631,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189644971,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57335,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115384,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371757208,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241935429,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57703270419,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87720091685,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1295670,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27110102,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73193,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5231291,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74808319,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39149463,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50469,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403590952,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862817,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64071,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2682096,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380417,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10038577,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98397070,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5165915,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30467570,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2068986,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9011208,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,510544,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26123347,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3602065,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,563309099,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137276977,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18044,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843775,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1099387182,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71730967,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,523586,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,577283,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37648504,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11924257,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24452239,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16677042,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8536826,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16641766,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673979,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18480258,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4155575,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19996,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7173917,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137790259,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3093444,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16137,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89248,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134935789,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352341481,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,893826093,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65891560,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4092513663,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219752623,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1132200,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41715622,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1476252,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1888831,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367431399,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1683287,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2150119,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54505433,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35565,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44650,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11624330607,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1661139280,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3646259,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63760786,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35754,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65251,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44334,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15213236,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208795053,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23487153,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4706,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278697,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86637,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8627906,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16773368,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4117111,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209165,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8611671,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226045,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2774806,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2223088,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548136,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62553637,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,982843,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768055472,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7675922570,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,484193316,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27171252,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10266963,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319069292,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3846542807,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4796024850,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49876460,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112288355,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186843,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,205217304,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1478891276,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79753443,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,616704436,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211845940,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5495356381,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,646136024,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7844347,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57940485,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1122146,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19024268,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17352257361,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41352868013,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2534795,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11839619,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43091165,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99241379,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34328778,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57598478,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10183163508,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17744363068,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42422461,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285136189,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189182,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1031226,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17426709,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20142118,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16042463,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29404680,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1293612,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7138,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54591438,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11965453,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57714,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1274143,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568311497,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2285473,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93431933,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4911396,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22991262,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43654920,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38973857,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67609899,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24447051,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15707049,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26507,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270767,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9913367367,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5524997817,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3269277,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34256604,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259194,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10549207,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13983865,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2880993,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73799,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8825068,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19854629,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73450895,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2409196174,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190674784,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3632152139,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7812407407,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1079915,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29041364,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1812860,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21859,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378232,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120620,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14712,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1314143,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36029414,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14976342,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9906927,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,523879942,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54496986,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455043079,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43479587,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7899142,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3839416,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34320451,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6116140,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34232881,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2354849774,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2567885287,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308242,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753071,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38387159,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327784928,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1567768,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61481588,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6057465764,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7166741072,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14912082,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1109235,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2000136,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299767,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441984258,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106982690,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1262,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,248494,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66512,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9677307,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343122881,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127893420,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10573,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3268304,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1823,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104801,,,0
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7866,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4737664,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1433960,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3279553,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130510,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1132359,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240581231,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348255163,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11967483,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102301166,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2702034029,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1599410740,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1898153,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1036183,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255542552,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40582171,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,550226516,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1630146255,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166422,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176947,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798639110,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,385389181,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235417182,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30115483,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2009,,,0
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,719807,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14909996,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355278297,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,649838931,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166953302,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34992477,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180017311,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462854708,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,985526,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384084,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1217469,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329777,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39422,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,744178,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144307,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4403,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,132083,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472594,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8275,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1707042,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31963,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476431927,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548998703,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1262821,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19725998,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24138857,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1567015,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6935801,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6123760,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5229806,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2129804,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4242233418,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12368446758,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8822729781,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7326951027,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198035846,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2543911,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4679434935,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3707960286,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128324813,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29386472,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168294,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,961296,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,910752654,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1243464304,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378733,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2234946,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1998844484,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,650784366,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3711,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144825,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96958,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12004153,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269446,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3271921,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2671455,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48412,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2091267195,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,296901244,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2757347707,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864654502,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514234,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,952963,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14007,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86080,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11524696267,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4882532609,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23155930,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9436139,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1874079,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16303358,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17357026,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14823473,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2389898328,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2917267374,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29946966,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1334379,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,820126922,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329412579,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383154,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23367,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38034,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86046,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1637956,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2061185,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3210677,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54401255,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51564441,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8130357,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1091758,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43741688,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449551810,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5605121853,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3610941700,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6167294,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39177715,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1518859666,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24666302853,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9552146146,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57863,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10061517,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6163116,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7457224,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150648,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111022,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3103641,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1864428,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13861,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2638599,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4173660,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28499590,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43142,,,0
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121244269,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8348139,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10838443,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4440217140,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14853271,,,4

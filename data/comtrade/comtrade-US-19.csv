@@ -1,0 +1,449 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2567492197103,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1644276220783,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38016123,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,750615209,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58838956,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85664137,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2593386869,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,999323369,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12298846,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3350386,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984169471,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536171052,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11041058,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478081163,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26490456,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375424819,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5120074216,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8078856733,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11017254934,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26018549254,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13445141128,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5724687376,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426331081,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3317534352,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1089647039,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1407866987,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6917819429,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2327031041,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57351249,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52903979,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43261160,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568601978,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20708084707,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34768383035,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22064206,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,577615954,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,618626,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2840054,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462017921,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537974710,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108327416,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60303969,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,280392873,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104498251,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32079462357,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43083195641,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60169593,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393099404,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,843087,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23016968,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6016673,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19826790,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4965011,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,580458784,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43931318,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285066763,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,944599031,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462385181,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851978747,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344988403,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10273716,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2451935,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,401168576,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125041904,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5578134772,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513421993,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345579362,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200426845,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326628559104,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292338433401,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3983519,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7771326,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49217116,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1124271728,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3649133,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36993495,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2867528900,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390338080,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135809107,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84647384,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11150838054,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15776197124,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,472464913744,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106626645076,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540814,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1596433,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2637531,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83233,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14705658063,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14780136220,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2088259,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1512989,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583362466,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105327403,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22102812,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131006401,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528330,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10645069,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5417398185,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6205931348,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,563978821,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,712978754,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2587421,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286800855,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76216274,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202557130,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5709830790,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2790143078,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8802005,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267015376,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11194146810,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3159795204,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2199535,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346203660,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5704319482,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9207741791,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7354743386,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5517834746,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2554019839,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3373485025,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,349094331,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214768336,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,588235614,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1020996072,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150939,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14321999,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033334991,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364907047,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179860007,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3170127,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19312045,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317783,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298348291,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103183711,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6590871078,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1763243723,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58491722749,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38751856499,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56457222,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,651176685,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152496,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6805392,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30961316,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154082649,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127029860,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129351458,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158617273,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768450286,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1597180,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44993579,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4985347,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3324555,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129857182082,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59797035615,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,986611585,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,837423030,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15736514,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1421704829,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3250953,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2188142,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1621364744,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1443537600,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27445066,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18557709,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15965731,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118189428,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4310090279,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6830354498,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10581163,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125294738,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140433064,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672114979,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1087725150,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1235440753,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168696,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121719,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1004967,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718912,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5067264683,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5475096206,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4809514922,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30758742928,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5416592111,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1917525428,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516263541,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555006689,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21186875652,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7758071945,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438814,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73141766,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7240173082,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1277907302,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61989364643,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9030509020,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19892226542,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14376607473,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58739583352,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23788415899,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,958064308,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278448180,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407252092,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2498685209,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146974311374,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74650662375,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1252825650,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736903623,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2227683505,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1474445828,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,685571833,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391025030,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79948144100,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56894210754,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446371867,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3173438641,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5542547,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20952957,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152324629,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17070018,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153753591,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037457114,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332606953,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1212467,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,837627745,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,541501236,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71654634,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113842887,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1572465150,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413437765,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1147724124,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,933503408,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659161908,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1922451851,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105407444,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,572248439,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,859477917,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66366126,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103282222,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22826186,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41496535326,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13120000929,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33667910,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39410102,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4726607,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67939075,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174810915,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143652548,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5201509,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90942431,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357006018,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87173772,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,361320937424,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256371086497,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55958770135,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31218730810,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25257502,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192697508,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67994848,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20470251,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3236985,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18469744,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472411,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15854734,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1649025739,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3479286418,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139652993,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195738474,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234817243,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1937699362,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145152637,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194641678,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4128053,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1232259,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97683338,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123001864,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30883263358,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51225636600,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72843967,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396030325,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20155427,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519050306,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130223567,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688793378,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45665852,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74449516,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6497671,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4649530,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4280746215,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3945406275,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3993888440,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1652455970,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47761006,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75939682,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4760103375,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3178325594,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387297,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251587,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82496,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12606,,,0
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6803796533,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3877042991,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1850499,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45145269,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12240187,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100062278,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1680598,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19581853,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4117395336,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2621680436,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468289994,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7719389605,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72741802,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95269780,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173224295,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2118083817,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6514273377,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9687229863,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13192919626,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8660368357,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24951,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6273,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8651793287,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5952142837,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4042762778,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1722352625,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1998402,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1244382,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5215415,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4789665,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1749078737,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6458786253,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2465089409,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942528033,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23185179447,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5786748446,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46672396,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18862948,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11464093,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,572609,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58375747,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210202784,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2415897,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88572809,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14031338,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,852294135,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32854,,,0
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88482,,,0
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5408964,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102046418,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12256831,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31694971,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1588974,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2696727,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13865218115,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14289207045,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136620252,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198312460,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355695157,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166637513,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11006207,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18275615,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30842394,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78360706,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59916979523,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34409574569,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26675532723,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31519012134,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5215759913,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387819591,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69385153230,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10883073324,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,993428711,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344515169,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1079300,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105431065,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7963631173,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5333693528,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48698190,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39145993,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17483878877,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15101338409,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70379902,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22314219,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22732263,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74409821,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268572,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21197768,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88436312,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,375753015,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16254268,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19751621,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12680869915,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4354703100,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45410049727,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17859091315,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6283772,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8598031,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2323799,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11193778,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34778833704,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13307832305,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13703029,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430791517,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2123996,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425332,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6160259,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20424113,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3631111921,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2819978568,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4569353642,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20035803205,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,485027278,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461074751,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11305381266,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10044692645,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17008750,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28265538,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5872433,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346450407,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130451,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,832383,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83307781,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104498938,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1359495942,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2354801476,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290081037,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38424949,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3298440629,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5485805241,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64133144834,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69100919866,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133582951,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332201587,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6105545,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66900568,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542718110,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1710612086,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34861108,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,505552962,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2015839951,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1272231476,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52625,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,471688,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7759680,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52675256,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4801072,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270224329,,,4
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84427608,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99307986,,,4

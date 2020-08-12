@@ -1,0 +1,462 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461870258266,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527937032302,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2987942,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36723944,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6183461,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57289985,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17218,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229495,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,900952177,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,865815041,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261744,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113720,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3439922,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16627504,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5327349,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169444049,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61252,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6331665,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5210565,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155707069,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1256615932,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,892359799,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378126351,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2935297625,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2825567973,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6483916261,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13590002,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224854726,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129236452,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184905633,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1414763000,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378214241,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7069244,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53278335,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4549528,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15454239,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47663680116,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54367272290,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2036887,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5833168,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5599,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,840114,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43523138,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75515422,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117558433,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185267376,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1396652,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12276031,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29504,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4573770491,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2785660561,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6614268,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6076906,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113817,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203229,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18619925,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1339745,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3478788,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7306140,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,710614,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51837472,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680401093,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1109137152,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126245800,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34311309,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170532,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13101087,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215366321,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290367231,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346901166,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33291773,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,366762478,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132905372,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1697888729,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3817235427,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6080373,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34646857,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,480399959,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,687142278,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6687,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11630868,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184481977,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106728000,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204784925,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10476675,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1011184899,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,681194581,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40787745900,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12787040725,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,164376,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231589,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984716819,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516508073,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1411198,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3751876,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18009827,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70223163,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11012561,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172722771,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24716,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371889,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,664308665,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141691969,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326153783,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,722884758,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42057705,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169650509,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74296327,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387093609,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5987401068,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7886646099,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4703589,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86014554,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4354418990,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6598839789,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3030211,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3698791,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171949621,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136685383,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354682550,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515846588,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12844676,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30846559,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178795080,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40297036,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262742554,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184201846,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23801,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3058189,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344200348,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1013609869,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32855445,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25258207,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413757,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6900689,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45900,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11453371,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7101386,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4589959102,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5056141184,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17988156348,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42561928230,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170962,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19251292,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1152901,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4767588,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27875187,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131712090,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87200119,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51705004,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128893278,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2076976,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58480611,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1096114,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24318889,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83973579431,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120680923036,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936913534,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753550153,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40784273,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,929364390,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110165,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,632599378,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2546373375,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1415781,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8427841,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2064597,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6156621,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38134,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5203697,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,399387636,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74145722,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3097999,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463456811,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45407794,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33145035,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1822151,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44597093,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134738,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1227,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1837936,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286917044,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44354551,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6154343873,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2377920352,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2584548323,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3899146568,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1107225974,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,725112667,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3433799091,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,980728962,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,667442163,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1198560292,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3085273036,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448379845,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6359107373,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4218301011,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2059873994,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2610610245,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11111408536,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21436452767,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1603507628,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327220874,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21068781,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52854875,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8728624396,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4194328278,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251709072,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389574481,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58428259,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,546485294,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,526533925,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347304071,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23670,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,885945,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3789466474,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6729767098,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1414192384,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,601579311,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1543233,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24651676,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8221973,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4501581,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76968459,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,413907246,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3321925,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659056,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,612804461,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662295684,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35771494,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44667087,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552902258,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216144530,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,976902751,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1164570082,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1005283250,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1278952193,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4733390,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85437057,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67413754,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44461915,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14379986,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23669500,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7554427118,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1581000772,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,965009,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15694838,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8057172,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143136279,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141443409,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327035061,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9824979,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91374953,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65800442,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49126015,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1731384142,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2575647975,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3495472319,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3881971014,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,903113,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22031065,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33371228,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78599685,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11899836,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50154197,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383671,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437340299,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1104903431,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186866665,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50561490,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92067698,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642235390,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47993934,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21076326,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1938,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4118093,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27468465,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9264864,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267011003,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11187434,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125956220,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345279,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57622516,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,679870,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68454707,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398308,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15918777,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370412,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462834,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455490874,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576330563,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35837228,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24696445,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357477,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23409063,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2185697327,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2830111563,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,543941736,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203993513,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6652,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21306411,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11700295527,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4973383357,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,864,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,509325,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157486,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18467,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22793,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186032,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73116468,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133599316,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8519,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170567,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,511828601,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1236144826,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317683640,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176982255,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347829124,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10748312,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25735392,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70881243,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,747612945,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393136118,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1613503837,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556303039,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,185973,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9191614444,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13456280126,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2277084013,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3213120849,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50931,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23828276,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6257596,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,268319642,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,561068063,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1572905170,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2851124227,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17222576747,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6089501936,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4420452,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24254098,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4824,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1560468,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176157,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13531,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11168,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1071566,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866269,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2682749,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10485084,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45898,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2208187,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2238,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2741924,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3910396,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18047330,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1529506,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2361930,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1438584820,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2847093862,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47833492,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453849280,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178543553,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532886883,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16304544,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18464986,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75357282,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57921348,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3563213780,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2350698242,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4131705817,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6049070773,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1445319826,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1671694229,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5990843841,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,962978257,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542553964,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920142217,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11712446,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1469353918,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2122232618,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67544038,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19551922,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8844473395,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15575816630,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3159,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11159910,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6245097,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88837262,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18227,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38783850,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192665336,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8400665,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3001682,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7570420258,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10868251084,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2782099800,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6599743005,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7064174,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62955616,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52550,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8648737,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3264689979,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1243607850,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21292327,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1097600144,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27143,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148727,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44196,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104160,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192237482,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54764850,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1099527000,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3150464961,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196444762,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322300125,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3164201942,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6692813989,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3592578,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70173285,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170611,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1351605,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18415,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27862,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86134255,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64780086,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1542500339,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977324028,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69359652,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120203313,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,443822594,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1356188845,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26292386320,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44299529345,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61122160,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97586442,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12951,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4447154158,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34909202481,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22344446693,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14666800,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68670892,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565610055,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138900257,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4328200,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105442426,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162182934,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73720595,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1120910,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18579,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,630760,,,0
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4785757,,,0
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52813965,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17187633,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56549383,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2835284941,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3918938329,,,4

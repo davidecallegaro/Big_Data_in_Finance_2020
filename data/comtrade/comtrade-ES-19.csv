@@ -1,0 +1,462 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,375485170269,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,337215113876,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1977754,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6617032,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235669898,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109644878,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220369,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4373334380,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3262103464,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8501,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1356312,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44286998,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1053777348,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1073792688,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137152547,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133981,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6750015,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,726225833,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77032071,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1776652669,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,949598787,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547709840,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1748923829,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2417230540,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2636847970,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1743883,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84530969,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145899062,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125351106,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3410342443,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226177749,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84891133,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30789936,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1815837,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6927229,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8324183530,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9282706615,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30152606,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7078792,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285755,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132739,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119020698,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156631148,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43935001,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73765664,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556059,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6464290,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4275273785,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2909248530,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18939998,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1695462,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6434118,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2801754,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174416,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1523529,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,791526,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,204717,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11950413,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,804205260,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1486671379,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,697335145,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24617023,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194113,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743603,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36583778,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121077079,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1038189207,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26027352,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283184139,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107682178,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1751377606,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2270077854,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72669369,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96590401,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167043681,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8025723,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,582419,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6915321,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145169917,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84344634,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19898,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10112900,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1428435031,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1789737565,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32639038488,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7613577284,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,562,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52382,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494022712,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1148826230,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288690,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5025654,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11078489,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25820453,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209868607,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35250708,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1160611,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154818,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284856421,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222787883,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143136690,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592689228,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130812085,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1017006783,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46818417,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,394818121,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4889739665,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2834564607,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462886,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46592249,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2038289588,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1978558993,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,572111,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2688556,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140013672,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676300281,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693900448,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,693798710,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60550060,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113966445,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560606603,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189987003,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31164979,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50844842,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21225,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5195143,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125047788,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,263779103,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58509122,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2064517,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243949662,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1308013,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1366,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,688,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13188962,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6531704,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1542364018,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1005878458,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37407108927,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49138802974,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112599,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18106172,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84569,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,931159,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27588733,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79635052,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44758265,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54903844,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85825368,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4359746,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26344311,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116197,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15496853,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44701713130,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34767304643,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170873805,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343957355,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5512582,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1571119160,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3441,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180285,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753814534,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2774876740,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9105966,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224142533,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1321,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4086553,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28793,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1944362,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,193488071,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241795708,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221304694,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80496532,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10625620,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3055488,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6560961,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20213446,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1565,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88130,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117099586,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97287517,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364527967,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1021352196,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3317762040,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2024301226,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157278343,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101513658,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2094578972,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,557454193,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,103544263,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252438355,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2111795442,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202552783,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3054257680,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1856097560,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,818825884,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1715912662,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23024822895,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25988832134,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461095753,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257478635,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,936111,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80831686,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4876359112,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3050374941,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1576120557,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127645750,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58296209,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326556410,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46399137,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102075716,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,440362,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30038,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3491045392,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2527271580,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64429294,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,416354357,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117966,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5820306,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4720988,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2401622,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47714625,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462803725,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56134,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4068390,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145766657,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,292522382,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29812401,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30270607,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4274405252,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468723353,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367806363,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460734112,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,592260048,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376151676,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6301618,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18256100,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56963162,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40872543,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5901124,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1229163,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319001105,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,681208502,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5166130,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20937997,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1696421,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71923744,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,173184710,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397708092,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331344803,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228044666,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85254024,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159920440,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5163591606,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4809151789,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1481993491,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583373890,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490045,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8159630,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55646411,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46534957,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3056351,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38936551,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11216,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20639,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7779618219,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9534025050,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250266894,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40659598,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34530354,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196462208,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284604269,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40453951,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67109,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84950,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2483475,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7498587,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15613981278,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11004431764,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52611080,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14426538,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50421,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13872933,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20731,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8726715,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32858,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14075226,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48025263,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38647032,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,578419,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,350307,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184739185,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,265678599,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71839425,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58187522,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3014900,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12403605,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6335652111,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,442236278,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19062749428,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12577526296,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1684,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2516848250,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1307703807,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11745,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15570,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11983,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,563288,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13929935,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4485570,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2383,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10474,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1085581094,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242796535,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138300110,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,516964959,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78208637,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2542998,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58308422,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118188146,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1494608679,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,857227325,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301760030,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670978862,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89797,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6372397875,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6920098454,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12789172162,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24523329103,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,642175,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10825077,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7448,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137110,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1046376997,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,422700267,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2117007012,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2588661462,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3853396357,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2299593363,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1367316,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5712451,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,254055,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,299898,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,530451,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92009,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,386463,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92397,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10789,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2492511,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228903,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8237,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1266456,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6285310,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20676576,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197512,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185320,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4762317210,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2060704193,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172430241,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,338798267,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237326938,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339474012,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35856947,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58670105,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305821,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20361250,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4736583705,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1506218293,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,559682226,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1096948474,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2251508092,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1291392765,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3328381774,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490716603,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,608942946,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677707980,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1940416,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14297292,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1231952570,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1621011086,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14455805,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7747785,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1557276,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1105718,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,806744,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33118178,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34077,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5154474,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12849141,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27972821,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,769336,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3054164125,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2727044222,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4119990495,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5637140041,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18060043,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58058846,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294049,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2597991,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1372284503,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,746142157,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67707555,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75688140,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,354659,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8169,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12396,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743557,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,689600993,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35236358,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,552935117,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2089994909,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677603350,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883320252,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8497880786,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4999307776,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2367302,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10002156,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,885688,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3805,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11421,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29712260,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24528708,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1803532685,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,687021734,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116120872,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61862440,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,995530818,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1712081549,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13219522232,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22016845636,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21334843,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57125111,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179212,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7188305775,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17396647531,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15383386540,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104541983,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57237952,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123163647,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222358408,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3374018,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41148766,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,920187232,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336382022,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117140,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94839,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367516,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4957335,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41625419,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31662977,,,0
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14807843,,,0
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129345630,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,553347280,,,4

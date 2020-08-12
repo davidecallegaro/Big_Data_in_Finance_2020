@@ -1,0 +1,446 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,453235842977,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,446255863556,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3796666,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12704102,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10756815,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40945920,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167014,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486679,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41142843,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,515262253,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1067955,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1222762,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,441821,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243138,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21179668,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46402708,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320548,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15966240,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206288403,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8005834,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,684118001,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215059733,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1760232427,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1700431855,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1722149301,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,195229670,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14542410,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197636853,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22889282,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163562835,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1484075262,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,940464983,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,73531196,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9211011,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11186009,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30200564,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3741438618,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2425560859,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,337523,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34478535,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155178,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,304256,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,195822242,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19329159,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12221668,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3658094,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4697362,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435614240,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4066997418,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1698641994,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1025212,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7465952,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35213,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202434,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,87800,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345042,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1262421,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2007733,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,295806,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6611741,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,150427942,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186436542,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,137810679,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39240547,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,748556,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2239344,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49587128,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5826854,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1284828953,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,55196392,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13329575,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42293521,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3384840989,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,75850,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1559656,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378809,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21958646,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,95845,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226855,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,322253068,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158036255,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,55777,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20929673,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1239962879,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,656012280,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,56542858359,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17533039435,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61386,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1128624,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,152742,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15893,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,626976109,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705186546,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,496423,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1945667,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5220158,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17315935,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89188088,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15620682,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,62543,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358150,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,441773678,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110984527,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,53384081,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26245117,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430117033,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289788271,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3533734,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8296351,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,616911142,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233677102,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,815397,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25301192,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1167738873,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,205649974,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1650987,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4870209,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,491366749,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167692793,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,167074203,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,289254693,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,102796568,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41817470,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2017294,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4689969,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,32666319,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115750057,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35687,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371283,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,93269955,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20176123,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3366084,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322083,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,104049,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65888,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5672478,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20667347,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,802034946,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527525865,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6551276862,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2740790994,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1200374,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10440541,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1126,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74731,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115182,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8277239,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1294192,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15174093,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10240383,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19404851,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,586934,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2360871,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14534255731,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4577361945,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75843359,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194575160,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,76112,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677408,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,362917,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,388913,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,211144330,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99711719,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,247399,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7634968,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,640047,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68784402,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130401,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3905566,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,500529260,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85593709,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36987999,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20626806,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381047372,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29790659,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91111339,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40900362,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20371,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,348721285,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24886258,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,285594887,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3003525478,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,694775225,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,68571856,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113891826,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57911707,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1367759314,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1454694970,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22260263,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246763931,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,313124,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110533363,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2275449989,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,635354772,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,993726402,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270470136,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7135854689,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442654224,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,411915456,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43151237,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85561186,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102846639,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12456108727,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9516654221,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,343028969,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,119576272,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,105453179,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67040085,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,27144665,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127036188,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,136535,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7287161437,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4180635226,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,242766,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,104705019,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344907,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9986628,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35852249,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2143013,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,27978531,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90072253,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5591541,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115088,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35484552,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,344238958,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24010550,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2530119,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66830197,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67241940,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,200722479,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74866591,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,124316523,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76821050,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4691661,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56441799,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,94129152,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13725048,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,952629,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10172104,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2145937181,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,605015593,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1631762,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16532248,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2164297,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20045546,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,25938045,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75157245,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,118908,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14158376,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12279062,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6832321,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,27843536229,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5516624212,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4500118777,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1537553844,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2372334,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33825895,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11984684,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3505473,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,420427,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4471827,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,194249,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64785,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,349012931,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341526820,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8270666,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44974944,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33349666,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81228739,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,85545730,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7979743,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,296357,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38507,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10536908,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93501447,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3515039343,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3905972024,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524742,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9476354,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,803020,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6034777,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,214915,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4473656,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12940,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430124,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,442700,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17009631,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31497,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182608,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,589241237,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,374686779,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,111853458,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26399931,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1339061,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4172880,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,222078668,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381004357,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15399,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133886,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417577,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1147504182,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1630002347,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,25237518,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7889292,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,338821985,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,506815500,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7200573,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175931175,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6423842,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11659363,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11016278,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13320462,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2705462960,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579077020,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1224864060,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540697198,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,388471,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124864,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1761665274,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,560625806,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,496103684,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,214824020,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52580,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190359,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4446949,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121800,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49525575,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200448797,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,359078171,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76650008,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1404171625,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,501964175,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2712001,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8628467,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5797,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2562,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54485,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276479,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2395643,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7060812,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,249692,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1218304,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502704,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6548574,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6177399,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11371598,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52546,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3575182,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,64520,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286460,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2484576274,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2124501246,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3947188,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58084388,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50893999,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17774116,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,448288,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3043209,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3203247,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7122616,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3982009007,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3652017380,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,906431298,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1146001746,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,546508614,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,30400238,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5265455835,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748848456,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,159867062,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71645973,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,756620,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3835193,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,775051401,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267383128,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6679599,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3825155,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2634788704,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1133213528,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,449070,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,381375,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18789596,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21615,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33798,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15388823,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22331453,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1248374,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7715247,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1724077853,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,340851872,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3727378529,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1080173717,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2131971,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20949823,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,187615,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1635851,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2821977441,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,676534282,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1188020,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20665005,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,116937,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497008,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,204746530,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209406184,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,160665736,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1130973240,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,106716866,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73605904,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1480182001,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1219182217,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,364529,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2365369,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89218,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3173422,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15085593,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,131184625,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,110264024,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115125763,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20553309,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8051829,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,792037333,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,559535847,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6961629312,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14926456082,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19122920,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,95484790,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,229774406831,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336414001003,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12904829,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43304318,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49205604,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60000395,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1457647,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7674312,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14613831,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41443244,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8226,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78785,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202678,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415941,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,847105,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8773219,,,4
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,44285315,,,4
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17882879,,,4

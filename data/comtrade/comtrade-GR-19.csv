@@ -1,0 +1,407 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62198045283,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37885526504,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1019826,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544117,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144112039,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641071765,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18200525,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430830464,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200410692,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110711,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176531,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2560,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2126165,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7624,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11710243,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342100938,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9241810,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181329050,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5046521,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20834417,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210950502,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,607886476,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326589200,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,659712,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59638155,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1700245,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11701829,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58195063,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63556741,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,446015,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15177322,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3993,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11624311,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1868626315,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,536675648,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7651091,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1813,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,643879,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1266743,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12553277,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72437393,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1195588,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1717758,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149802578,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150692753,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,685939,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1796494,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15496,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124441,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52934,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,945704,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5791759,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378266,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2033190454,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1746442522,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13630086,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,572345,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253989,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4858215,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13864673,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20819365,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3829069,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3834283,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5912272,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95156847,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171661944,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3777,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433520,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60315,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17826179,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,198109,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4432960,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5635322,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173507,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9908,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52508604,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20756006,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4546496425,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,999092904,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18488747,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15943687,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1086407,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2919623,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,178901912,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2062578,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2439343,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694436,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677282,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1980765,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18300980,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1434260,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113604215,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166118739,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12545448,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4194559,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425832488,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2126615322,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503320609,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293655326,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2531530,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584754031,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214776835,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599268,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1457089,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11826344,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147831148,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7509502,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4611528,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1478717,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223485,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7667350,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6967462,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88842,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592489,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18454103,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36697215,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236696,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343325,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4466,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104876,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165640309,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188291037,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2588552741,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1324787597,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,495453,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214641,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25625,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2626439,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56789148,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,710664,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4850247,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92251503,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28697,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,402565,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430602,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,801958,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6595697647,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2519379890,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5766222,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24896370,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4105917,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540039118,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1350,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100584,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8330,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9099276,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4864396,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1708450,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1176321,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2756835,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2129155,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31038,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,858238,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9609,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3771,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1756954,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2213440,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45114441,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101813034,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,547823525,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230563105,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1436268,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4811472,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232054422,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84076678,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14697062,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32145637,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5095452746,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83029854,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,965908462,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165379325,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307033694,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528038678,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4888088020,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4086014850,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3879477,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26997006,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,919695,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,972679,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190033147,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212990633,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1799447273,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9650754,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14386186,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44252384,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4099538,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10442542,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90201,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,692444752,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175482466,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1515780,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31500647,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695354,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,312351,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330867,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4168,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61895989,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1301275487,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20431275,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26833016,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9723871,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194315378,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671896478,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451368483,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41276330,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51923660,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47332669,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25307277,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,274126,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,711611,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1255931,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1845847,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3013688,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283708,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84208077,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41256670,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,786516,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1500,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1224946,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26406839,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,368627053,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22314838,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13121310,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23951062,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5606970,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48536124,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190554358,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127601030,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20026861,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1495,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1101545,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49828550,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13615531,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2713555,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168839872,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175197,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43962869,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95477939,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85772513,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398025,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2768938,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14357920,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4564488,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1773949,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242730,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133748,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3002871838,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,782245099,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50798,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1319287,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3395,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155911,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1039,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187425,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568146,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,931020,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42915224,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25068363,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1211645,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341012,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,150733,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186046,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108409376,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54798403,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22389,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,836023,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252089328,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112995668,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3040599,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1835256,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129042127,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,741842,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84725065,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28775839,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8526133,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215979249,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753442,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277507,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25775071,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2049451,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8493820,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19720677,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9581318,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7716678,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1052682,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,898289869,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,554362669,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187808089,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229719405,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117775,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69814983,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73130151,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,895905829,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1135193540,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4569105037,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233471365,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76957,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,531998,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2316,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196760,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13902,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111524,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94919,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46526,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,339133,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1535231,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1943807,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3924450,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,989955921,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,837286593,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11535920,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4413857,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228524470,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,362235514,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10322,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1033306,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,930,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4720120,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450335575,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97320250,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22586910,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160963646,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196418298,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165729648,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246687755,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65641826,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230637391,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,582777168,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194384,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68200994,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89424170,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1674048,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,745078,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2173949562,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1235490632,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149744,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20832263,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7860399,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,241353,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3039,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52519,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,433493437,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239315193,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,393433397,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172455976,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1783361,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6796470,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,866940,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146451542,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66647048,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3607978,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89454360,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,772,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9329191,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2109451,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68286013,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,283658925,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29567468,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224241349,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2175494516,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2209603276,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44821687,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13177102,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53817,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199487,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4369319,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1432589,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208734718,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236025982,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279105928,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,889363835,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,943439097,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1055595249,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1244976743,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1370965325,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4546575,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2821988,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610025,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,669738,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92326,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,839,Special Categories,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8070,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1369356847,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1461451477,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3418162,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5406928,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4611477,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1239962,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3986669,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610216,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8757071,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38233,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69295,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,997846,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7488121,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12425710,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1885503,,,0
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1741081067,,,0
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514686645,,,0

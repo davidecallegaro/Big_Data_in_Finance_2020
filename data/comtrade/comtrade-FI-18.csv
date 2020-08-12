@@ -1,0 +1,423 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78352161411,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,75258290459,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2349982,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,499133,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1941148,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2628729,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336644,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,206716250,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57439,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,636,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1817061,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591020,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43030,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30042277,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9181,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137329,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1405344,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32562100,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16746047,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75502639,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109213813,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743124622,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,758636345,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456889575,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977400,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47592132,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486737,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10327550,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186215447,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212534872,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,332497,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25715945,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627637,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,831734,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1518728785,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2180217296,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172805,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71911,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30352,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522421,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7723535,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10187309,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6267806,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4004,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242400,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2127,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,619726953,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343847726,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7179,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,507017,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40772,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9532,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5746997,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28147,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1691712,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87087122,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86230977,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23182231,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22737589,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1108463,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29623,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41378006,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71075302,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56410828,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26518683,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,588779,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8641406,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,689609129,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768576370,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1245,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1120590,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194332,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4986,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29786945,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6577263,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203730,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,307728932,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290871129,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5446326139,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4100576932,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51688190,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104558578,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20055,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5444,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,886199,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2192740,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63037,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13833930,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2903,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1445,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74074880,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16401104,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68079637,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35998112,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91614,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4325001,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9770575,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170878299,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1157367635,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400275521,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5559890,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1868254347,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1357821808,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5530,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5835,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7412405,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42237408,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14966608,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44401696,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1860706,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8791254,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1610,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3194,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5203091,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4806234,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3902,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,255629,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2281655725,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2035485899,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,657515,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5685918,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47190,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,939896,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2309021091,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2078813536,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,455,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1315429,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18305,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209971,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429971,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1363232,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14186464,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46090,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1612824,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61908,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748574,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11905109751,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11156092745,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,765395,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107010174,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7779,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21531657,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45667,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94828691,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153644331,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1812052,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2837494,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,721,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16583,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1130,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107537,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9350958,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14043146,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33077,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13728958,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225677,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,755617,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166420,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367406,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48547,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21423234,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1582890,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222244459,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147864473,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,508391754,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342099657,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13746525,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58453963,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193965323,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409228013,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4661866,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160105105,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87713,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11877001,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592847354,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146847911,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76024642,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212341160,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2081860836,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1693568936,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1037129,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13643306,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368738,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2163279,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,877129364,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1181874657,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141179155,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128768447,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1136171,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62061521,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21038277,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28811405,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,890906895,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854200331,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136118,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19549274,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31564,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3090221,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1344321,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1986977,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,977521,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41323485,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,301053431,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,718677447,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,976,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1568511,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1072,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,816187,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,522754377,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,652176271,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87564359,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26172490,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,318538,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5228151,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6516359,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407915,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599676,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1727585,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319862330,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149764983,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466851,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17008026,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264022,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19498649,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14886825,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14575279,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44339,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1820757,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16932555,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3213530,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289370831,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,498443686,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,410092884,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257079193,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167808,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5106636,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1642819,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10086349,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,372679,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2442809,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32258920,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428334591,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6073750,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12930601,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2205272,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26680793,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13596745,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1765959,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27270,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1258468,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,773583,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3637105930,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4881720461,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23065757,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1493,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373035,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192938,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1270,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1422136,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1703,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37189302,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95060430,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8269200,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497102,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56029,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210964,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,174759,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37022318,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22060,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2191814346,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1973809845,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1131,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1544,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8073502,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10098,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,63767233,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84901591,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18208122,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12744141,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387085,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22400415,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,684087,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14708071,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106103625,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104154636,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104361022,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187262059,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2179776808,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1980253420,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403791191,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222924718,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41249,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,447,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35122922,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32854023,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,295919368,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193851963,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10892061565,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3852138728,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2152710,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3933172,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33961,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,856,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1303,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7188,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,616,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490165,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2115,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40778,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627393,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1471249,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38492210,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216663881,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,723622,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21126215,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40267043,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36761932,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1587160,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356173,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134080,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284475,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415790992,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,610566225,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196924540,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,210384014,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358531174,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,151982388,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355772273,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126427386,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130308708,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85935234,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221779,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142729983,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321808324,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456409,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4790291,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1421389276,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1152821073,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,736,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5648532,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4902181,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102962,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,619412,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142222,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,227003,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8429378647,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7691324189,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,728954771,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675545163,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96941,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7425978,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8830,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,904274,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,266476004,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218024125,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5745,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4918178,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41586,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27899071,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2121486,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13273146,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,284700984,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25439268,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55356082,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648482198,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,825934870,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24728,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6179371,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4052,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4997275,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49342,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5205756,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3762401,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85527336,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253280590,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4006859,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9839682,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33205956,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463210905,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2076166176,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3211434871,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4954097,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34882049,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662502449,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2485545071,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4859967362,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130703,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7980599,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32839823,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53622856,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45251,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38551109,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113917,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5701058,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6265,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,809,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2378509,,,0
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,874422,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27542534,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2943951656,,,0
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3183704571,,,4

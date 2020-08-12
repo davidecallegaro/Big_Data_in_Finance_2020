@@ -1,0 +1,444 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158712544843,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,160543406626,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445013,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5940024,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23516017,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10893993,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13940359,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293047399,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42925,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6239,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109958,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1750238,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93777437,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8004037,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31718,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2064329,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392994,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21113907,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92247645,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167809617,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383201819,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1759330730,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1969327455,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1487206987,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51067,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87229574,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1206895,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92039400,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593042238,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48942493,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,556451,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15227500,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30027,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8240081,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6955842021,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6274457073,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9621,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641295,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11735,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4512972,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,839170,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27848467,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48593650,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28679804,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5392,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1687632,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448304725,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,984781111,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160813,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,675243,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19242,,,0
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1163,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437189,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4071832,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519255,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1585,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2697271,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270360715,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160060025,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77083368,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10228480,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4106617,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184859,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35102216,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61335029,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68111316,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6944587,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,972917,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7008146,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,383393823,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209621969,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18079,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,862534,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25374,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34970511,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95473,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186551,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73541343,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37870937,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33198,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1287350,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99493883,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367408541,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8175625479,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7539189885,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39140638,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135995034,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,293363,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,462564,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9690506,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,565226,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19635669,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16814,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20382740,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34695337,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117547944,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121965839,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2864196,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26307199,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57139297,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37169890,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2584035560,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1328119481,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8775,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15349647,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10532076980,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11113085922,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8881,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67365,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43167113,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43785263,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69120816,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70374616,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438410,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19257597,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26009,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,917950,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8637736,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18737178,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31612,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4928164,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1505892815,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1335053387,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1961694,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36016636,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3912,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1480,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7295,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,342433,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7805586594,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11339340084,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6007305710,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6358001734,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,182276,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1018522,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14484,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112522,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3594,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2532294,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3177608,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,548627,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15629685,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9727,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5933150,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587641,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9620708,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28314094112,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16501012252,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12131760,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72483680,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24211,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22919139,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,363795,,,0
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179950215,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,367968300,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108795,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111495393,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188771,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117493,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22611611,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24419056,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3489,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8515043,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167580,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4983262,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80036,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1665423,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92535,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19141,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35087414,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17904043,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,868884152,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345982446,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1716125065,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,686746431,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35430716,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,359421636,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175087425,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,363950577,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11182737,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59235483,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221607,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80739837,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1612845768,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,518855594,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132851255,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329298387,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5325692761,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4319132487,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346367,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23971503,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125183,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2657930,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1590627891,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2566798587,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11538515,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100090921,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5448423,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50560644,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24815319,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40959394,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90609,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47483,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1173935799,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1459733525,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44844925,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71016652,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,771186,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4587000,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21239779,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1011014,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16312493,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46282976,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,845,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58059,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1025719698,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533745949,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4123,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11836901,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157469496,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37449716,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441694948,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1150215692,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408437623,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112698034,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7402822,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4561407,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44294077,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6221332,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1338845,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1382635,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310676002,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330204492,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38379,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3251319,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,235564,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15084837,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47359688,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60477783,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39965,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3909853,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15506416,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7247997,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105123314,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,749518983,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,733449305,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,512072176,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,436554,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39631857,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1008971,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17093963,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3055354,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4207975,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2643,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128739457,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,397343758,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2205399,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4776195,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29600188,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125939463,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,605826,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3681740,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10575,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1155617,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7615072,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14949012355,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8366948032,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1163,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264915,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53604,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33984138,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2008,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392349,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28024,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16325075,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2766117,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,891088,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43837328,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166454689,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9878253,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6386309,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,305873,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9349130,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,981356897,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91405295,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,528,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49852617,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18612,,,0
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31718,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1749287,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14514388425,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16974167684,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41234,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15545,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4891467,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6766,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,857564,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3384,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153193078,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345259719,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13393317,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32683567,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1191353,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1831141,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12314565,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9468633,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89329738,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180488960,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44966302,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149614430,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6702848445,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5116502470,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,643533828,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,799913593,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381998,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2249506,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236996,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259822290,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381333039,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,417042477,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381463329,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3993707965,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2217033087,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4733061,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4801047,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1163,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54992,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4123,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20410,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1903,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,345500,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1480,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18401,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10784,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217219,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2538,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73164,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,162756,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,331988,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3551451,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124865,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129337,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109964748,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,926611105,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173606,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18942871,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223620598,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144130631,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192638,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1197565,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36265,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5526630,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,751790843,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1234494078,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,186990599,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,925830636,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028187094,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,465456918,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1167861883,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196066403,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329271818,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214137856,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128672,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,496940,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157509779,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,804637863,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1589211,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12463075,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2226634772,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3159044919,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26220,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76037,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,497877,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29512515,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24634,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1704129,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37639,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152286,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1137314469,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1797468910,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3869467,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14073294,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58679,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1246846,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,456866548,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476663523,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,192955,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5736976,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114187,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5181,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7823,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34581,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1530743,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31069646,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71882562,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,903161713,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54088488,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52395169,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1185177956,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1359139846,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1912043,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44088,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,136211,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4956995,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10518670,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113513328,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408758065,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26388354,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10666409,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38271335,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,695067098,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7235959085,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8450449123,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6731655,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32300313,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9092,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,815904853,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4134408325,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12249404824,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161976,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22835910,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5938265,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69887616,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117782,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17105808,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,350702226,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3597031,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211,,,0
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57001,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4017,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22482795,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,745071,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25667066,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429922587,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4001781938,,,4

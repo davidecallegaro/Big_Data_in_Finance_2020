@@ -1,0 +1,466 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,659374522338,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,568535879844,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9071331,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19412379,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,104013830,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72698579,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1320338,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2811440,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4923927990,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6225039240,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,663706,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,396377,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15077304,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,295108705,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,600213206,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316769220,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,768797,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12554917,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,592048491,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134359882,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,456714382,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,930852520,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1312190779,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3108595943,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7020725464,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4763489380,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37922493,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37935553,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212873031,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,310878020,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3078675168,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,391615227,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13879562,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81608086,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9796372,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13974399,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46401585286,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40321521892,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1207949,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12710439,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3740540,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,544493,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,131857883,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78898398,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,170855822,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,99359837,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18398969,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57394178,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,220855,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3558255086,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5331961434,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2784582,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3386078,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,59262,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2523000,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,153197,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6274761,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81312115,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1002698,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428488749,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1325266142,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1031099417,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390264514,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110929066,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2148778,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13391011,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,63392269,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,154737810,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1153634799,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110003897,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,429223044,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,596244695,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3437344732,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3973505056,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306618,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22365021,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6682198,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28485943,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6060639,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35048190,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,392267879,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147339892,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,45466699,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91331516,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1304135073,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1267978759,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,59036932917,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24618000748,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69383,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76783,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,580824580,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,788759005,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23505832,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39783463,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,41191232,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,357955022,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23564771,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126913995,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13731467,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,777202,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,256131896,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66886156,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,303165471,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623709667,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31749402,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229376521,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,57792035,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,256152961,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8972966007,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5727970751,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2866776,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262969449,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3420476110,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3491809989,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1500219,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6417797,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,168853675,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139979825,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,439585767,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163225076,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13354222,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246095501,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14471904,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53482432,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,45514633,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,727158196,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,110266,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6326920,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,414914579,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392358594,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36743894,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4322104,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,328268,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119126,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,165696,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33445,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3822658,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8589276,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3045135784,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2109142779,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5690757198,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29669984,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,664204940,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9670576,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8627547,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1250401,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84973170,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,175516869,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,541826021,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,53506872,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,226799346,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224331,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9295144,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3398567,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18435591,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,102253031933,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83212117326,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,532520046,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,252279818,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1620962,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250769503,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189998,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6244,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1176694701,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2633022550,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3999355,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1068495,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2079224,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4789054,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,429390,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10332975,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,55398795,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68177937,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89630376,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200805324,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20249924,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3005675,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26178662,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59594808,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269443,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,672213,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130527587,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21180377,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,771590740,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7341726747,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5042972248,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4144683663,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,357087025,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101331784,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2195852368,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1499937514,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1837702246,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1025434053,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,567587250,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,349651109,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7810217415,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3765489862,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1431393709,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1707255681,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50411395346,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42748244978,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,967802439,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1299629996,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,68636383,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33797234,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11870241452,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7814214572,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3507168860,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,408235934,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34336805,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,272576750,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,127125949,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197974217,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1375,,,0
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,408,Dem. People's Rep. of Korea,PRK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,902012,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4481674466,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5116694577,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,518000768,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,635719447,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,594378,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25933776,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33129051,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8925626,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,64237824,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883314004,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,83528,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,699947,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249239303,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,392798248,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56619027,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10631647,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2699218140,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,232990227,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,902962903,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,833473701,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1846306800,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3222065466,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14515435,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194543173,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,742619809,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,437820792,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12221427,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14643312,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2796704290,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2298543213,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27922735,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26821333,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10617005,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,402985762,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,393604569,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441143747,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50320920,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209800725,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,312700180,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478202833,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2738976801,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3867998106,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2979777590,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2577615273,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5855590,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27828860,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,66102636,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62390901,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6878850,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32247485,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,971655,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48130,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6272826283,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5184531839,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,138380763,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35941531,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,95961750,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,432347901,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,57733577,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8720201,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1616447,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72507,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15218784,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275947537,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,30049051125,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20863122352,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,639403,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14709998,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69582,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9022560,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2330297,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36819884,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7221,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217228,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43217475,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,859256247,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,70145,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7382055,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,429288653,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542041656,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,58542037,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11306367,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6173953,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128039153,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4424658283,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738497588,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275417,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168785,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,574,Norfolk Isds,NFK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75499,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,919,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8926179,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4377165405,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2227408887,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106206,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3808944,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,120072,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347149,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1708,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3647,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3783,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,921211,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89011,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189217,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1034561135,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470364242,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22191171,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,540163071,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29165993,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8242475,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,35018871,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72710919,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,561283053,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,269269566,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1337431337,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1380431320,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,100549,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41337,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12697743449,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11686145380,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7912632527,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6266161941,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167672,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3870669,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,163042,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3201440,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,584527918,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3577253231,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5044025744,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4934765698,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11810400774,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6280694273,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4836739,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19855724,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2902492,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143801875,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,196088,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,820237,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1551713,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446212,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1143120,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4834501,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9517967,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,583293,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33863275,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,680321,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5912852,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12800460,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26333518,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2105538,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2178300,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7705716967,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4100795421,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,107642116,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,969376048,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,568536859,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,579307404,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,138160547,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,72217586,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22575505,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19108650,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7097081715,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6530434837,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2776521037,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9711897981,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5612936757,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3438392458,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6413864614,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1445499179,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1929351779,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1202616020,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8375835,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19065135,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1616376971,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1876263292,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61521721,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26546092,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42899804830,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44323626135,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12706,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1820440,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,56346131,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93531266,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1049,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5392,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,28966975,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14434983,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10102364,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7040113,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7636078480,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6030501645,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17636267724,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18902370654,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3901055,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102265132,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22297351,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8927827,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3320939577,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2207423427,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23270412,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,282594737,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4878275,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,139743,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,213432,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3345968,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,247167501,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33732273,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1516967939,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3736667950,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5297607573,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3907636426,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9474608192,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7072182392,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4570651,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92464353,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4275795,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13306811,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,798,Tuvalu,TUV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34263,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14848563,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30441999,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,723362017,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1012297889,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,71696708,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,93991083,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,908736077,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2015205656,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,24279771174,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38386038366,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,40177640,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161804247,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,41583153592,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45309603062,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23633283,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,319371163,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,147281856,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,202557705,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10796007,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142535561,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75556694,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29738126,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160409,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15752902,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29966,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211313,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1366695,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55122252,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9790112,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32238614,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9698679505,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2192743349,,,4

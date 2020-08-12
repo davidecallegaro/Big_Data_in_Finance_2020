@@ -1,0 +1,446 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106931073268,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167017887791,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,830027,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8868851,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1017177,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9559843,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,10,Antarctica,ATA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39860,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127742522,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91233715,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,16,American Samoa,ASM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16704,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47083,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,287773,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85692,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12151933,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187330,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240818,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,346439,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7622150,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329132698,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,203508919,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125694085,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,989718166,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,376091690,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493761980,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70278038,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3869564,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6452590,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64820137,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,222800907,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22355312,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45293,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1244763,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130802,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1583866,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1934173456,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21827294385,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426613,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1174483,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115859,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,64,Bhutan,BTN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2552,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,945723,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1749739,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2951950,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19860013,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68111,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,551469,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,74,Bouvet Island,BVT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27862,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,290511457,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,347026138,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16425547,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330210,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120147,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,86,Br. Indian Ocean Terr.,IOT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379072,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294032,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3541,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490859,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8182,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677830,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56007243,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124764668,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27524849,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5569280,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,189,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,108,Burundi,BDI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,324101,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42378231,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6358320,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92422222,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,840402,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13972771,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36392867,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623372052,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1602469399,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1200,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,950932,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1238130,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,508835,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,703722,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,583571,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60730946,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12262772,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1147,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1520525,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83632715,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95428444,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6217848247,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5544027641,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,162,Christmas Isds,CXR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181958,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,166,Cocos Isds,CCK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57124,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111201501,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158226631,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30098,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47318,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216264,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22928664,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,355681,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25175482,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15566,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96319860,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48530825,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14769970,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56165925,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,790974,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1654711,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26017666,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27179481,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,859791101,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,677147774,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15964,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2909824,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,600636065,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,865180412,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238805,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,798480,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15835880,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19459412,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4679076,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8160579,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1431529,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59094007,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88945,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,743081,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1269382,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36550331,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26382,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,232,Eritrea,ERI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13081,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22537122,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24923273,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5004739,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,234,Faeroe Isds,FRO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,278701,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5968,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,238,Falkland Isds (Malvinas),FLK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51623,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2027546,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30040,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,179869010,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343686340,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13469165120,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6345181629,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5868,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,216507,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320887,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96848,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,262,Djibouti,DJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138792,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8356151,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2766234,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1247353,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11071913,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,502,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3322966,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8866,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,275,State of Palestine,PSE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9825786,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12530165470,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12514191720,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1927054,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60939166,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15929,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1846252,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,296,Kiribati,KIR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11270,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79993639,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,634300404,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3776,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,304,Greenland,GRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15244,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2457098,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,660391,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87679,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,807609,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8155389,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17848827,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148767663,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5961491,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3349196,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3242086,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116325,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2291941,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,334,Heard Island and McDonald Islands,HMD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,356,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,212485,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,336,Holy See (Vatican City State),VAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3557,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8811591,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3819477,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134104790,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,932860635,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418272046,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,403019375,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15532723,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49590264,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160347593,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86785541,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4588649,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123601052,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,119926,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,120671921,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98170404,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90577008,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,333296057,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1864063599,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4314793272,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20315612,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24598971,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289527,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4293854,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1707268354,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4783258731,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19154,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27937961,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5275244,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80929865,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28160873,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30721391,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1015686018,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,700387608,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303067,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110594682,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76046,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82266,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,881782,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2764918,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1825606,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87554701,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33073,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56767,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57364219,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100527388,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57292,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3464246,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2812,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71294163,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125510357,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36271832,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73598944,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,218891468,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,588612,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13536656,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,488246,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1300223,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,382529,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6539949,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,506235314,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246834116,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98703,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,824956,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107608,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35815261,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11985349,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145707779,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48012,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4278047,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10052018,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10286379,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415587468,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1679541245,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444922996,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,378866478,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,756067,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4106426,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3180783,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1475128,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53203,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,499,Montenegro,MNE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,270057,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,534,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,500,Montserrat,MSR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86927,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,27232404,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101022226,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155100,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2692253,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5071841,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,82721579,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,954892,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2278863,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,520,Nauru,NRU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30430,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,590252,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2949923,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3494825347,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9046620838,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2606,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,466901,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,330270,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,534,Saint Maarten,SXM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,463458,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,535,Bonaire,BES,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13226,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5283,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2507744,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64652693,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88367041,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4259961,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1315740,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15765,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5272999,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32250158,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259675575,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,662071812,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,568,"Other Europe, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146757615,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,570,Niue,NIU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244927,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1003285,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,193639,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1169775550,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,414061079,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7113,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,194411,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,581,United States Minor Outlying Islands,UMI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4353876,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1850,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36286,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,585,Palau,PLW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12776,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90129877,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44999560,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2160415,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16716098,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141464,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,187927,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21865580,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648614,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29608756,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29489739,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221047448,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158807097,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,612,Pitcairn,PCN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16385,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800788504,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1371961101,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239326096,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,524401196,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32750,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,918,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,626,Timor-Leste,TLS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5229,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3072608,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83261426,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109794078,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460438839,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,660493238,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,617320948,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30441,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1300749,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56392,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,652,Saint Barthélemy,BLM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13711,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3978,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,654,Saint Helena,SHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101243,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5771,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,213781,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6414,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32974,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,256654,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83275,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,666,Saint Pierre and Miquelon,SPM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5504,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1073377,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118395,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61451,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242710,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21746489,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,647702978,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4609536,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56748360,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5805596,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,688,Serbia,SRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86509355,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,334883,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1299842,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,909208,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1388317,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,663962858,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387978066,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527390957,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,830635112,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70226350,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92836220,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197243493,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77328139,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32372962,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100003364,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2345,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3378481,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133686531,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327143023,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,644260,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5669385,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1708308106,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3040925749,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2361,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,728,South Sudan,SSD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12277,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26092,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23653856,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,260064,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,732,Western Sahara,ESH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115388,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,112834,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1999639,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,810569,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12183656,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,788480337,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1093126714,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,858875075,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7684627064,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15823408,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,107724,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,320333,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,519183765,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177775569,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48455,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15118320,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1952778,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,772,Tokelau,TKL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441892,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66974,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7855746,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19293247,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,90217987,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,428611153,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16896385,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20778952,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,723709401,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,670056370,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,954078,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2398075,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105046,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,351992,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1115605,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24355089,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,70793325,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,59103051,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2035477,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14432363,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58845024,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197897487,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23447943149,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19089565799,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,337417,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22566884,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,837,Bunkers,,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,341873407,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18680818577,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46393474568,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57629,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11480997,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8157583,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23806703,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66211,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21069804,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115297,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2165756,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,876,Wallis and Futuna Isds,WLF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,533,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11361,,,0
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6919,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10407,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,887,Yemen,YEM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8526992,,,0
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81940,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21115661,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4491417489,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2767842134,,,4

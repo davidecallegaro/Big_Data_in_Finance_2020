@@ -1,0 +1,360 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69591297855,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69681396828,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1534,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,4,Afghanistan,AFG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,114804,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,8,Albania,ALB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1038812,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11950,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,12,Algeria,DZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29914323,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81459,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,20,Andorra,AND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,190936,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,197914649,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,24,Angola,AGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6654508,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73059,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,28,Antigua and Barbuda,ATG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,882941,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1562,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,31,Azerbaijan,AZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,946961,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3537026532,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,32,Argentina,ARG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,599913212,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231798746,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,36,Australia,AUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273984069,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257414953,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,40,Austria,AUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,79361361,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298583,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,44,Bahamas,BHS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46734510,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,720264,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,48,Bahrain,BHR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11063851,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143440492,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,50,Bangladesh,BGD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55831896,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2443,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,51,Armenia,ARM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,651778,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454446,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,52,Barbados,BRB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2929489,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,398079410,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,56,Belgium,BEL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,486426135,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180455,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,60,Bermuda,BMU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,224443,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102734610,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,68,Bolivia (Plurinational State of),BOL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1008367485,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1469935,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,70,Bosnia Herzegovina,BIH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,157194,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2661,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,72,Botswana,BWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20530,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5649796927,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,76,Brazil,BRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3157131441,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14881,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,84,Belize,BLZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2186347,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,90,Solomon Isds,SLB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2972,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,113,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,92,Br. Virgin Isds,VGB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167095,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19366,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,96,Brunei Darussalam,BRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576818,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18049769,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,100,Bulgaria,BGR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161865848,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8019526,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,104,Myanmar,MMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262677,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2080520,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,112,Belarus,BLR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6527412,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40174274,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,116,Cambodia,KHM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16224304,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1436,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,120,Cameroon,CMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1668611,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,739346031,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,124,Canada,CAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,996900695,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,132,Cabo Verde,CPV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23739,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30082,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,136,Cayman Isds,CYM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234148,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,140,Central African Rep.,CAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10161,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46415389,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,144,Sri Lanka,LKA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8638530,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4532,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,148,Chad,TCD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1849128,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,152,Chile,CHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16431042,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16554805292,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,156,China,CHN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22570637472,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1255560420,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,170,Colombia,COL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,643090854,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,262,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,174,Comoros,COM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142912,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7091,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,178,Congo,COG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3617494,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,180,Dem. Rep. of the Congo,COD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,152779,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,184,Cook Isds,COK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,233,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34505411,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,188,Costa Rica,CRI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,163211277,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15730839,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,191,Croatia,HRV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1811787,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5355753,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,192,Cuba,CUB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39599183,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1157909,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,196,Cyprus,CYP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3598407,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116382957,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,203,Czechia,CZE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12660173,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,204,Benin,BEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,381016,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,177586325,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,208,Denmark,DNK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122022915,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1579,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,212,Dominica,DMA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,513297,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11515968,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,214,Dominican Rep.,DOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76498382,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1588188634,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,218,Ecuador,ECU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445996151,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6709458,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,222,El Salvador,SLV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,80292748,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46978516,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,226,Equatorial Guinea,GNQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,200300,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,641854,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,231,Ethiopia,ETH,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155641,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14884937,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,233,Estonia,EST,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4945467,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81224,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,242,Fiji,FJI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,795452,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379861331,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,246,Finland,FIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229308993,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1456776902,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,251,France,FRA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883212572,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7916,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,258,French Polynesia,PYF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1028976,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67141,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,260,Fr. South Antarctic Terr.,ATF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2557217,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102431,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,266,Gabon,GAB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,804215,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4823231,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,268,Georgia,GEO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106813656,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,270,Gambia,GMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9562275,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2762070168,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,276,Germany,DEU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,831744765,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,100301,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,288,Ghana,GHA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25846340,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,292,Gibraltar,GIB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5760,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20604975,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,300,Greece,GRC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48742024,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,308,Grenada,GRD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,352939,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,316,Guam,GUM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854088,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113596740,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,320,Guatemala,GTM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117935783,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1241,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,324,Guinea,GIN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,228570,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6468,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,328,Guyana,GUY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2177127,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1298168,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,332,Haiti,HTI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3506132,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3537219,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,340,Honduras,HND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32623608,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,81640689,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,344,"China, Hong Kong SAR",HKG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73897604,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84197627,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,348,Hungary,HUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3115339,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11400620,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,352,Iceland,ISL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3016990,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188199176,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,360,Indonesia,IDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,127618341,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569507,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,364,Iran,IRN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3275594,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2126,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,368,Iraq,IRQ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2644285,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,155272605,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,372,Ireland,IRL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,52439532,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,125034646,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,376,Israel,ISR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124994839,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1333643535,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,381,Italy,ITA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,753553108,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2501180,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,384,Côte d'Ivoire,CIV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15723262,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117148,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,388,Jamaica,JAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15388613,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2436337005,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,392,Japan,JPN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6366849959,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387817,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,398,Kazakhstan,KAZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5335738,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5074149,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,400,Jordan,JOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5492355,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1561457,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,404,Kenya,KEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47005446,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1440277168,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,410,Rep. of Korea,KOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4696299468,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,311883,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,414,Kuwait,KWT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7024581,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,417,Kyrgyzstan,KGZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,273011,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132264,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,418,Lao People's Dem. Rep.,LAO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,648435,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,336334,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,422,Lebanon,LBN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7394520,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,426,Lesotho,LSO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7348,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7191989,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,428,Latvia,LVA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11563592,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2562,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,430,Liberia,LBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1027700,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72576,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,434,Libya,LBY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3030148,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14595867,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,440,Lithuania,LTU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20091305,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22328776,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,442,Luxembourg,LUX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387219,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,446,"China, Macao SAR",MAC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,360129,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,654194,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,450,Madagascar,MDG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38073,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,454,Malawi,MWI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13560,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,242331403,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,458,Malaysia,MYS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,219654484,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118367,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,462,Maldives,MDV,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,555799,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2993,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,466,Mali,MLI,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1290190,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15009860,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,470,Malta,MLT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5354873,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,478,Mauritania,MRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6487600,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,183355,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,480,Mauritius,MUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,595776,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2054234245,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,484,Mexico,MEX,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1354352411,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,279094156,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,490,"Other Asia, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1525269588,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,250040,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,496,Mongolia,MNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1208016,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,371334,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,498,Rep. of Moldova,MDA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,405350,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10272393,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,504,Morocco,MAR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16404005,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313896,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,508,Mozambique,MOZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3104867,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2495822,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,512,Oman,OMN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9662811,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29539,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,516,Namibia,NAM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91362280,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,173733,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,524,Nepal,NPL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,298548,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,425246992,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,528,Netherlands,NLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1573292057,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,531,Curaçao,CUW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1764641,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,533,Aruba,ABW,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1757411,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,540,New Caledonia,NCL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74914,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,548,Vanuatu,VUT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,111673,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102600601,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,554,New Zealand,NZL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73852968,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4721434,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,558,Nicaragua,NIC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25848311,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,79,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,562,Niger,NER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8866,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105661,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,566,Nigeria,NGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91196709,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,525937,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,577,"Other Africa, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,483920,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,128879099,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,579,Norway,NOR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42336675,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,580,N. Mariana Isds,MNP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,597687,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9899,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,583,FS Micronesia,FSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,435177,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,584,Marshall Isds,MHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6339924,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64825932,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,586,Pakistan,PAK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20820017,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,53410775,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,591,Panama,PAN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,160853134,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,598,Papua New Guinea,PNG,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,121996,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,727544293,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,600,Paraguay,PRY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,477063559,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1186570297,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,604,Peru,PER,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1819209046,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51897183,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,608,Philippines,PHL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158028155,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159201931,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,616,Poland,POL,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74894424,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,141834135,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,620,Portugal,PRT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42131902,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,624,Guinea-Bissau,GNB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,63,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6702,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,634,Qatar,QAT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10708744,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43463517,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,642,Romania,ROU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5893345,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77016509,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,643,Russian Federation,RUS,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,806914725,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29479,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,646,Rwanda,RWA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22175,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,659,Saint Kitts and Nevis,KNA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95168,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25475821,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,660,Anguilla,AIA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69985034,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,662,Saint Lucia,LCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,989078,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,670,Saint Vincent and the Grenadines,VCT,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,237714,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,78554,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,674,San Marino,SMR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191936,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,678,Sao Tome and Principe,STP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,343,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14640445,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,682,Saudi Arabia,SAU,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,118978567,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3458943,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,686,Senegal,SEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,617921,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308603,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,690,Seychelles,SYC,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,133927,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247588,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,694,Sierra Leone,SLE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51857,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,914514164,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,699,India,IND,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1186034185,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87344565,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,702,Singapore,SGP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69229882,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47681013,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,703,Slovakia,SVK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1244672,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,800841794,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,704,Viet Nam,VNM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243815513,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23957536,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,705,Slovenia,SVN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4203083,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,706,Somalia,SOM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,551486,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62695680,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,710,South Africa,ZAF,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87826357,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,716,Zimbabwe,ZWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430940,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1684591562,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,724,Spain,ESP,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1250338460,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,729,Sudan,SDN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7140,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2461,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,740,Suriname,SUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3165743,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9450,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,748,Eswatini,SWZ,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48012,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,476112230,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,752,Sweden,SWE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97724904,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,289688091,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,757,Switzerland,CHE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,590540592,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,145490,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,760,Syria,SYR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1020290,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2228,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,762,Tajikistan,TJK,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,175000,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,694339609,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,764,Thailand,THA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380770681,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168844,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,768,Togo,TGO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,585249,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,776,Tonga,TON,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,658777,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243205638,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,780,Trinidad and Tobago,TTO,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20780802,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42757782,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,784,United Arab Emirates,ARE,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201187252,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6127144,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,788,Tunisia,TUN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3141261,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,415812844,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,792,Turkey,TUR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,231476796,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,795,Turkmenistan,TKM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,175737,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,796,Turks and Caicos Isds,TCA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,452476,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35765,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,800,Uganda,UGA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58407,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7654738,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,804,Ukraine,UKR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22615951,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,807,North Macedonia,MKD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,645607,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9665644,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,818,Egypt,EGY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23077379,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,593251293,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,826,United Kingdom,GBR,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,620355825,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,493039,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,834,United Rep. of Tanzania,TZA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,276777,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13451457740,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,842,USA,USA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9494259296,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,854,Burkina Faso,BFA,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66308,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126179346,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,858,Uruguay,URY,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105794628,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,113618,,,0
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,860,Uzbekistan,UZB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91980,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4859351,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,862,Venezuela,VEN,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51619816,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18320,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,882,Samoa,WSM,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126430,,,0
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42849,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,894,Zambia,ZMB,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,306172,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1894942398,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,899,"Areas, nes",,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,407368781,,,4
