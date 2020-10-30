@@ -1,6 +1,6 @@
 # The Spread of Economic Crisis in an Interconnected Financial Network
 
-The goal of this project was to implement a specific compartmental model, the SIR (Susceptible- Infected-Recovered), on a network to better understand systemic risk and the spread of debt default. We leveraged bilateral foreign claims data of 23 countries from the Bank of International Settlements as well as credit ratings as two measures of systemic risk to model default spreading from one national banking system to another. Our aim was to identify factors that influence the speed and spread of a financial crisis by simulating default cascades originating from each of the 23 countries, and spreading through the edges.
+The goal of this project was to implement a specific compartmental model, the SIR (Susceptible-Infected-Recovered), on a network to better understand systemic risk and the spread of debt default. We leveraged bilateral foreign claims data of 23 countries from the Bank of International Settlements as well as credit ratings as two measures of systemic risk to model default spreading from one national banking system to another. Our aim was to identify factors that influence the speed and spread of a financial crisis by simulating default cascades originating from each of the 23 countries, and spreading through the edges.
 
 
 We approached the problem in the following steps:
